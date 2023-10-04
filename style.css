@@ -1,7 +1,7 @@
 /*
 Theme Name: Kadence Child Theme
 Description: Kadence Child Theme
-Author: Olga
+Author: Adil
 Template: kadence
 */
 
@@ -271,7 +271,7 @@ label {
 	color: white;
   }
   .envoyer:hover{
-	background-attachment: #E0B9B4;
+	background-color: #E0B9B4;
   }
   #message{
 	height: 237px;
